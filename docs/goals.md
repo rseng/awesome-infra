@@ -1,18 +1,21 @@
 # Goals
 
-> Potential goals for this repository.
+A significant, and perhaps increasing, part of our work as research software engineers is to design and implement infrastructure solutions for research and scientific applications. This includes applications that run in the cloud.
 
-**Please add your thoughts here!**
+The goals for this repo is to provide examples of solutions that RSEs have used in their work and share them. This may be in form of
+- architectural diagrams
+- sharing practical experiences (such as what lessons did we learn)
+- sharing code in form of Ansible or Terraform scripts
 
-## First Issues
 
-If we consolidate around a set of needs, and that set of needs can identify a set of projects that RSEng interested in getting involved could contribute to, we can easily create a [first issues interface](https://rseng.github.io/awesome-rseng/) to help discover them. That one is a bit old (and ugly) but it could be redone.
+## First Steps
+
+In the first instance, we try to find use cases where RSEs built infrastructure for research applications. Is there such a thing as a "typical use case" (or set of use cases?). 
 
 
 ## Examples
 
-In the case that an explicit task is hard (e.g., starting an app that looks like this) we could work on templates that make it easier to get started, or provide examples for good practices or good patterns for development.
-
+TBD
 
 ## Awareness and Collaboration
 

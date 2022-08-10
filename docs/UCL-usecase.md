@@ -17,4 +17,7 @@ At the most basic level, 3 main elements can be identified:
 - Data storage e.g. a SQL DB such as PostgreSQL or a non-SQL DB such as DynamoDB (AWS). 
 - functions to interact between API layer and DB. In case of a simple read/write this could be facilitated by serverless functions
 
+#### Serverless App Model
+At UCL we use AWS and Azure as cloud providers. The following diagram is an elementary implementation of a web app based on serverless architecture. It is for AWS and based on a single environment and availability zone.
 
+![Serverless App Architecture](./UCLServerlessApp.svg)
